@@ -250,4 +250,3 @@ Open to research collaborations, AI engineering internships, computer vision pro
 
 Portfolio content, branding, research information, customization, and continued development by **Thanh Duy Huynh**.
 
-The initial visual and code foundation was adapted from the public portfolio project by **Ezra Desmond Sutanto** (`ezradesmonds/portofolio`) and has since been substantially customized for this portfolio.
